@@ -36,6 +36,6 @@ Ensure `app-missionlist` is correctly recognized by checking:
 - `app.component.html` includes `<app-missionlist></app-missionlist>`
 
 ## 📝 Author
-**Kalp Senghani**  
+**MagicGoal Dev**  
 **Student ID:** 101418595  
 **Course:** Advanced Diploma in Computer Programming and Analysis, George Brown College
